@@ -13,7 +13,7 @@ A highly customizable Simple Expandable FAB widget for Flutter, that can show/hi
 
 ## Instalation
 
-* Add the latest version of the package to your [pubspec.yaml](https://github.com/DizoftTeam/expandable_fab_lite/blob/master/example/pubspec.yaml) file in the dependency section.
+* Add the latest version of the package to your pubspec.yaml file in the dependency section.
 
 ```yaml
   dependencies:
