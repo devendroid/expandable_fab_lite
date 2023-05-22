@@ -9,7 +9,7 @@ A highly customizable Simple Expandable FAB widget for Flutter, that can show/hi
 
 ## Preview
 
-![ExpandableFAB](/assets/efab-preview.gif)
+<img src="https://raw.githubusercontent.com/devendroid/expandable_fab_lite/master/assets/efab-preview.gif?raw=true" width="320px"/>
 
 ## Instalation
 
