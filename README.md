@@ -20,7 +20,7 @@ A highly customizable Simple Expandable FAB widget for Flutter, that can show/hi
     flutter:
       sdk: flutter
 
-    expandable_fab_lite: ^0.0.1
+    expandable_fab_lite: ^0.0.2
 ```
 Run this in your terminal or click on `pub get`
 

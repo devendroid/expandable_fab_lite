@@ -1,6 +1,6 @@
 name: expandable_fab_lite
 description: A highly customizable Expandable FAB widget for Flutter, that can show/hide multiple action buttons with animation in center arc direction.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/devendroid/expandable_fab_lite
 
 environment:
